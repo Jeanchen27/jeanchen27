@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-z1QzQBcmdmVevLVqhRG9rRo6tiHaMP4SaEv
+我正在参加 ArcBlock 的 Bug Bounty Program
+我的 DID 是：z1QzQBcmdmVevLVqhRG9rRo6tiHaMP4SaEv
 <!--
 **Jeanchen27/jeanchen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
