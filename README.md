@@ -8,7 +8,7 @@ I'm participating ArcBlock Bug Bounty Program.
 
 My account is `DID:ABT:z1QzQBcmdmVevLVqhRG9rRo6tiHaMP4SaEv`
 
-To participate this visit: https://github.com/ArcBlock/bounty-program-issues
+To participate this visit https://github.com/ArcBlock/bounty-program-issues
 <!--
 **Jeanchen27/jeanchen27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
